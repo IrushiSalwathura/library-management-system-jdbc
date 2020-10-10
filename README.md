@@ -6,12 +6,11 @@ This system is created to automate and manipulate functions inside a library. It
 
 > - Either fork or download the repository using the URL <https://github.com/IrushiSalwathura/library-management-system-jdbc.git>
 > - To fork use the command git clone https://github.com/IrushiSalwathura/library-management-system-jdbc.git
-
 > - IMPORTANT!!!!
-* Add the dependencies provided in the lib/ folder to the project structure.
-* Set up the database using the sql script provided <> in order to retrieve results.
-* Change the username and the password according to your MySql server credentials in the DBConnection.java <>
-* Use username 'admin' and the password '1234' to log in to the system.
+>       * Add the dependencies provided in the lib/ folder to the project structure.
+>       * Set up the database using the sql script provided <> in order to retrieve results.
+>       * Change the username and the password according to your MySql server credentials in the DBConnection.java <>
+>       * Use username 'admin' and the password '1234' to log in to the system.
 
 ## Technologies/Frameworks Used
 
